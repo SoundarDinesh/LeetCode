@@ -1,4 +1,4 @@
-console.log('hello spiral');/**
+/**
 * @param {number[][]} matrix
 * @return {number[]}
 */
